@@ -63,7 +63,7 @@ Thomas High School is classified as a Charter school type. The Charter school ty
 ![original](https://github.com/lydiadingess/School_District_Analysis/blob/main/Resources/original_type.png?raw=true)
 
 ##### Adjusted Analysis
-![new](new_type.png)
+![new](https://github.com/lydiadingess/School_District_Analysis/blob/main/Resources/new_type.png?raw=true)
 
 ## Summary
 
