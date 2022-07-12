@@ -6,7 +6,7 @@ A school board representative requested an analysis of their school district’s
 
 ### District Summary
 #### Original School District Summary
-![1](original_district_summary.png)
+![1]("C:\Users\lydia\Documents\School_District_Analysis\Resources\original_school_summary.png")
 
 #### Adjusted School District Summary
 ![2](new_district_summary.png)
