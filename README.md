@@ -6,10 +6,10 @@ A school board representative requested an analysis of their school district’s
 
 ### District Summary
 #### Original School District Summary
-![Original](original_district_summary.png)
+![1](original_district_summary.png)
 
 #### Adjusted School District Summary
-![New](new_school_district_summary.png)
+![2](new_district_summary.png)
 
 The test data of the 461 9th graders at Thomas High School was turned null, due to suspicion of academic dishonesty. As a result, the percentages of passing math, passing reading, and the overall passing results were adjusted. 
 
@@ -17,25 +17,25 @@ When comparing the results, the removal of Thomas High School 9th grade reading 
 
 ### School Summary
 #### Original THS School Summary
-![Original](original_school_summary.png)
+![3](original_school_summary.png)
 
 #### Adjusted THS School Summary
-![New](new_school_summary.png) 
+![4](new_school_summary.png) 
 
 The original analysis showed Thomas High School with some of the top percentages in math and reading, including an overall passing percentage of about 91%. Once the 9th grade students were suspected of academic dishonesty their results were removed from the summary. The adjusted school summary was calculated using the total number of 10th-12th grade students, and was adjusted accordingly. 
 
 Once the 9th grade students results were removed, Thomas High School saw a drastic drop in their overall passing percentage, dropping from approximately 91% to 65%.
 
 #### School Performance
-![top](high_performing_schools.png)
+![5](high_performing_schools.png)
 Thomas High School was originally a top performing school, reaching second in overall passing percentage. With the removal of the 9th grade student scores, Thomas High School is now ranked in the middle of the high schools.
 
 #### THS Math Scores By Grade 
-![math](new_math_scores.png)
+![6](new_math_scores.png)
 Thomas High School originally had an average math score of 83.6. In the adjusted data, the scores have been replaced with null values, shown as "NaN". 
 
 ### THS Reading Scores By Grade
-![reading](new_reading_scores.png)
+![7](new_reading_scores.png)
 Thomas High School originally had an average reading score of 83.7. In the adjusted data, the scores have been replaced with null values, shown as "NaN".
 
 #### Spending by Grade
