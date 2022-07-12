@@ -6,7 +6,7 @@ A school board representative requested an analysis of their school district’s
 
 ### District Summary
 #### Original School District Summary
-![1](https://github.com/lydiadingess/School_District_Analysis/blob/main/Resources/original_district_summary.png?raw=true))
+![1](https://github.com/lydiadingess/School_District_Analysis/blob/main/Resources/original_district_summary.png?raw=true)
 
 #### Adjusted School District Summary
 ![2](https://github.com/lydiadingess/School_District_Analysis/blob/main/Resources/new_district_summary.png?raw=true)
@@ -28,14 +28,17 @@ Once the 9th grade students results were removed, Thomas High School saw a drast
 
 #### School Performance
 ![5](https://github.com/lydiadingess/School_District_Analysis/blob/main/Resources/high_performing_schools.png?raw=true)
+
 Thomas High School was originally a top performing school, reaching second in overall passing percentage. With the removal of the 9th grade student scores, Thomas High School is now ranked in the middle of the high schools.
 
 #### THS Math Scores By Grade 
 ![6](https://github.com/lydiadingess/School_District_Analysis/blob/main/Resources/new_math_scores.png?raw=true)
+
 Thomas High School originally had an average math score of 83.6. In the adjusted data, the scores have been replaced with null values, shown as "NaN". 
 
 ### THS Reading Scores By Grade
 ![7](https://github.com/lydiadingess/School_District_Analysis/blob/main/Resources/new_reading_scores.png?raw=true)
+
 Thomas High School originally had an average reading score of 83.7. In the adjusted data, the scores have been replaced with null values, shown as "NaN".
 
 #### Spending by Grade
